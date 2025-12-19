@@ -1,4 +1,4 @@
-# instagibbs
+# instaGibbs
 
 Instant Gibbs free energy estimation coupled to a HDX-MS database.
 
